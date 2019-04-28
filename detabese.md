@@ -23,3 +23,4 @@
 
 ## SQL（シークェル）とは？よく出てくる言葉
 参考リンク https://qiita.com/nishiy-k/items/49b3b658fb90d3e8fed3
+11
